@@ -13,7 +13,7 @@ Below is the diagram of the PCB used in the project:
 - **Microcontroller**: Esp 32 
 - **Power Supply**: 5V Regulator
 
-- ![ESP32](../hardware/esp32.png)
+ ![ESP32](../hardware/esp32.png)
 
 ## Design Considerations
 - **Trace Width**: Ensured to handle the current required by the motors.
