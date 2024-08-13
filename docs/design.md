@@ -1,17 +1,20 @@
-# Design Details
+
+# Hardware Design: PCB Diagram
 
 ## Overview
-This document provides detailed information about the design of the Mini Elevator System, including both hardware and software components.
+This document provides the details of the PCB design used in the Mini Elevator System.
 
-## Hardware Design
-- **Microcontroller**: Description of the microcontroller used.
-- **Sensors**: Types of sensors and their placement.
-- **Motors**: Specifications of motors used for the elevator's movement.
+## PCB Diagram
+Below is the diagram of the PCB used in the project:
 
-## Software Design
-- **Control Logic**: Overview of the control logic implemented in the Arduino code.
-- **Flowchart**: Flowchart representing the software operation.
+![PCB Diagram](../hardware/pcb_diagram.png)
 
-## Mechanical Design
-- **Chassis**: Description and dimensions of the chassis.
-- **Cabin**: Design and materials used for the cabin.
+## Components
+- **Microcontroller**: esp 32 
+![PCB Diagram](../hardware/esp32.png)
+- **Power Supply**: 5V Regulator
+- **Motor Drivers**: L298N
+
+## Design Considerations
+- **Trace Width**: Ensured to handle the current required by the motors.
+- **Component Placement**: Arranged to minimize noise and interference.
