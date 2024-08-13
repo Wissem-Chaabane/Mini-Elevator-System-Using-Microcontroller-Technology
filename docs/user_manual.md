@@ -1,1 +1,4 @@
-[SolidWorks manual](docs/MINI PROJET.pdf)
+
+
+
+[report Guide](mechanical/MINI_PROJET.pdf) 

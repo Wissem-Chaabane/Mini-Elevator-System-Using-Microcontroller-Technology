@@ -8,7 +8,7 @@ Below is the 3D model of the chassis:
 
 ![Chassis Design](../mechanical/chassis_design.png)
 ![Chassis Design](../mechanical/chassis_design1.png)
-This project includes a [SolidWorks manual](mechanical/chassis.pdf) for the mechanical design.
+This project includes a [SolidWorks manual](mechanical/chassis.PDF) for the mechanical design.
 ## Cabin Design
 Below is the 3D model of the cabin:
 
