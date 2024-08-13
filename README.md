@@ -31,8 +31,8 @@ As part of our university project at ISET Sfax, we developed a Mini Elevator Sys
 
 ## Documentation
 
-- [Design Details](docs/3Dsolidwork.md)
-- [Wiring Diagram](docs/design.md)
+- [3D SolidWorks Designs](docs/3Dsolidwork.md)
+- [Hardware Design](docs/design.md)
 - [User Manual](mechanical/MINI_PROJET.pdf)
 
 ## License
