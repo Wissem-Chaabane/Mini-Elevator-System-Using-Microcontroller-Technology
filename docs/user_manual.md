@@ -1,0 +1,1 @@
+[SolidWorks manual](docs/MINI PROJECT.pdf)
