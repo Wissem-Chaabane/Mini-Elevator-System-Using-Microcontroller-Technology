@@ -1,1 +1,1 @@
-[SolidWorks manual](docs/MINI PROJECT.pdf)
+[SolidWorks manual](docs/MINI PROJET.pdf)
