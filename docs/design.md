@@ -12,6 +12,7 @@ Below is the diagram of the PCB used in the project:
 ## Components
 - **Microcontroller**: Esp 32 
 - **Power Supply**: 5V Regulator
+
 ![PCB Diagram](../hardware/esp32.png)
 
 ## Design Considerations
