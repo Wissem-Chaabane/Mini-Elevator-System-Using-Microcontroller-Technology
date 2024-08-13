@@ -8,12 +8,12 @@ Below is the 3D model of the chassis:
 
 ![Chassis Design](../mechanical/chassis_design.png)
 ![Chassis Design](../mechanical/chassis_design1.png)
-This project includes a [SolidWorks manual](mechanical/chassis.PDF) for the mechanical design.
+- This project includes a [SolidWorks manual](mechanical/chassis.PDF) for the mechanical design.
 ## Cabin Design
 Below is the 3D model of the cabin:
 
 ![Cabin Design](../mechanical/cabin_design.png)
-This project includes a [SolidWorks manual](mechanical/cabine.PDF) for the mechanical design.
+- This project includes a [SolidWorks manual](mechanical/cabine.PDF) for the mechanical design.
 ## Additional Components
 - **Pulleys**: Designed to support the movement of the elevator.
 - **Frame**: Provides structural support to the system.
