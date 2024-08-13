@@ -17,11 +17,11 @@ As part of our university project at ISET Sfax, we developed a Mini Elevator Sys
 ## Installation
 
 1. **Hardware Setup:**
-   - Connect the components according to the wiring diagram provided in `docs/wiring.md`.
-   - Assemble the mechanical parts using the designs in `hardware/SolidWorks`.
+   - Connect the components according to the wiring diagram provided in `docs/design.md`.
+   - Assemble the mechanical parts using the designs in `docs/3Dsolidwork.md`.
 
 2. **Software Setup:**
-   - Open the Arduino IDE and load the `src/main.ino` file.
+   - Open the Arduino IDE and load the `src/Arduino code.cpp` file.
    - Upload the code to the ESP32 microcontroller.
 
 ## Usage
